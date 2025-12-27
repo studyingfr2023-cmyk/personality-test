@@ -1,0 +1,35 @@
+<style>
+body {
+    font-family: "Playpen Sans Arabic", cursive;
+
+  background-color:red;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+
+  
+.container {
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+}
+.text h1{
+     font-size: 48px;
+}
+
+.text h5{
+    font-size:smaller;
+    
+.side-image {
+    text-align:left;
+    width: 150px;
+    height:90px;
+    right: 50 px;
+    top:150px;
+}
+
+
+
+
